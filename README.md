@@ -11,8 +11,8 @@
  
 <p align="center">
   📫 How to reach me<br/>
-  <a href = "https://www.linkedin.com/in/daniel-safari-a01744251"><img alt="Light" src="https://img.icons8.com/color/512/linkedin.png" width="4%"></a>
- <a href = "https://twitter.com/DanielSafari143"><img alt="Light" src="https://img.icons8.com/color/512/twitter--v1.png" width="4%"></a>
+  <a href = "https://www.linkedin.com/in/daniel-safari-a01744251"><img alt="Light" src="https://img.icons8.com/color/512/linkedin.png" width="3%"></a>
+ <a href = "https://twitter.com/DanielSafari143"><img alt="Light" src="https://img.icons8.com/color/512/twitter--v1.png" width="3%"></a>
 </p>
  
 <!--

@@ -2,10 +2,10 @@
 
 <!--
 **danielsafari143/danielsafari143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🔭 I am currently working on a project called GomaCars which deals with vehicle management and will allow anyone in the Democratic Republic of Congo to rent a car of their choice through DGC which is a service provider company located in the Democratic Republic of Congo.
+</p>
 
-Here are some ideas to get you started:
-
- 🔭 I’m currently working on on project
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

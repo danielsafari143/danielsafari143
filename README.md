@@ -8,9 +8,12 @@
   🔭 I am currently working on a project called GomaCars which deals with vehicle management and will allow anyone in the Democratic Republic of Congo to rent a car of their choice through DGC which is a service provider company located in the Democratic Republic of Congo.
 
 ##### 🌱 I’m currently learning  API'S , JAVASCRIPT , TYPESCRIPT , REACT and WEBPACK
-
+ 
 <p align="center">
-   📫 How to reach me
+  📫 How to reach me<br/>
+  <img alt="Light" src="./light.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="./dark.png" width="45%">
 </p>
  
 <!--

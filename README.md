@@ -1,7 +1,7 @@
 ## Hi there I'm Safari 👋
 
 <p align="justify">
-  About me <br />
+ ### About me <br />
   I am Safari Hamuli. Full-Stack Developer. I am a student at Microverse, an online school based on pair programming, where I code more than 8 hours a day with other developers from all over the world.
 </p>
 <p align="justify">
@@ -9,9 +9,7 @@
 </p>
 
 </p>
-### <p align="justify">
-   🌱 I’m currently learning  API'S , JAVASCRIPT , TYPESCRIPT , REACT , WEBPACK
-</p>
+### 🌱 I’m currently learning  API'S , JAVASCRIPT , TYPESCRIPT , REACT , WEBPACK
 
 <!--
 **danielsafari143/danielsafari143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -9,8 +9,8 @@
 </p>
 
 </p>
-<p align="justify">
-   🌱 I’m currently learning ### API'S,JAVASCRIPT,TYPESCRIPT,REACT,WEBPACK
+### <p align="justify">
+   🌱 I’m currently learning  API'S , JAVASCRIPT , TYPESCRIPT , REACT , WEBPACK
 </p>
 
 <!--

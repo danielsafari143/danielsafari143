@@ -7,7 +7,7 @@
 <p align="justify">
   🔭 I am currently working on a project called GomaCars which deals with vehicle management and will allow anyone in the Democratic Republic of Congo to rent a car of their choice through DGC which is a service provider company located in the Democratic Republic of Congo.
 
-### 🌱 I’m currently learning  API'S , JAVASCRIPT , TYPESCRIPT , REACT , WEBPACK
+#### 🌱 I’m currently learning  API'S , JAVASCRIPT , TYPESCRIPT , REACT , WEBPACK
 
 <!--
 **danielsafari143/danielsafari143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

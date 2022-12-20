@@ -1,6 +1,6 @@
 ## Hi there I'm Safari 👋
 
-<p align="left">
+<p align="justify">
   🔭 I am currently working on a project called GomaCars which deals with vehicle management and will allow anyone in the Democratic Republic of Congo to rent a car of their choice through DGC which is a service provider company located in the Democratic Republic of Congo.
 </p>
 

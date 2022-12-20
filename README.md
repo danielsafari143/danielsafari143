@@ -11,7 +11,7 @@
  
 <p align="center">
   📫 How to reach me<br/>
-  <a href = "https://twitter.com/DanielSafari143"><img alt="Light" src="https://img.icons8.com/color/512/twitter--v1.png" width="5%"></a>
+  <a href = "https://twitter.com/DanielSafari143"><img alt="Light" src="https://img.icons8.com/color/512/linkedin.png" width="5%"></a>
  <a href = "https://twitter.com/DanielSafari143"><img alt="Light" src="https://img.icons8.com/color/512/twitter--v1.png" width="5%"></a>
 </p>
  

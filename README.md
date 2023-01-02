@@ -33,7 +33,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-![danielsafari143's Streak](https://github-readme-streak-stats.herokuapp.com/?user=danielsafari143&theme=onedark&hide_border=true)
+![danielsafari143's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielsafari143&theme=onedark&show_icons=true&hide_border=true&layout=compact)
 ![danielsafari143's Streak](https://github-readme-streak-stats.herokuapp.com/?user=danielsafari143&theme=onedark&hide_border=true)
 ![danielsafari143's Stats](https://github-readme-stats.vercel.app/api?username=danielsafari143&theme=onedark&show_icons=true&hide_border=true&count_private=true)
 

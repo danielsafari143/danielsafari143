@@ -10,15 +10,13 @@
 ##### 🌱 I’m currently learning  API'S , JAVASCRIPT , TYPESCRIPT , REACT and WEBPACK
  
 <p align="center">
-  📫 How to reach me<br/>
-  <a href = "https://www.linkedin.com/in/daniel-safari-a01744251"><img alt="Light" src="https://img.icons8.com/color/512/linkedin.png" width="3%"></a>
- <a href = "https://twitter.com/DanielSafari143"><img alt="Light" src="https://img.icons8.com/color/512/twitter--v1.png" width="3%"></a>
+   [![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)](https://www.linkedin.com/in/daniel-safari-a01744251/)
+ [![Medium Badge](https://img.shields.io/badge/rashedul-alam-12100E?style=flat-square&logo=medium&logoColor=white&link=https://rashedul-alam.medium.com/)](https://rashedul-alam.medium.com/)
+ [![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdraanik12@gmail.com)](mailto:mdraanik12@gmail.com)
+ [![Facebook Badge](https://img.shields.io/badge/rashedul.alam.anik.2-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rashedul.alam.anik.2/)](https://www.facebook.com/rashedul.alam.anik.2/)
 </p>
  
- [![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)](https://www.linkedin.com/in/daniel-safari-a01744251/)
-[![Medium Badge](https://img.shields.io/badge/rashedul-alam-12100E?style=flat-square&logo=medium&logoColor=white&link=https://rashedul-alam.medium.com/)](https://rashedul-alam.medium.com/)
-[![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdraanik12@gmail.com)](mailto:mdraanik12@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/rashedul.alam.anik.2-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rashedul.alam.anik.2/)](https://www.facebook.com/rashedul.alam.anik.2/)
+
 
 
 ## ⚡ Technologies
